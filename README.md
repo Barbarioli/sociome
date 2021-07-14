@@ -1,1 +1,3 @@
-# Sociome repository containing dataset and models for the project
+# Sociome 
+
+Repository containing dataset and models for the project
